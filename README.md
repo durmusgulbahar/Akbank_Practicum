@@ -1,4 +1,4 @@
-# Akbank Practicum 
+# Akbank Practicum by https://www.patika.dev/
 
 ## Akbank practicum tasks. Work with : 
 - Hardhat 
