@@ -3,7 +3,7 @@
 ## Akbank practicum tasks. Work with : 
 - Hardhat 
 - Ethers.js
-- Mocha
+- Chai
 - Solidity
 
 
