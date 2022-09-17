@@ -1,4 +1,4 @@
-# Akbank Practicum Task 1 
+# Akbank Practicum Task 1 by https://www.patika.dev/
 
 ## Created for Akbank Practicum with Hardhat
 
@@ -8,4 +8,7 @@
 
 1. To run test script , 
     > npx hardhat test
+    
+
+by https://app.patika.dev/durmuss
 
