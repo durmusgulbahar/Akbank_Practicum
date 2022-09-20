@@ -4,6 +4,7 @@
 - Solidity 
 - Hardhat 
 - Ethers.js
+- Ubuntu
 
 
 
