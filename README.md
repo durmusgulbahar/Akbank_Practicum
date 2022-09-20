@@ -1,10 +1,11 @@
 # Akbank Practicum by https://www.patika.dev/
 
 ## Akbank practicum tasks. Work with : 
+- Solidity 
 - Hardhat 
 - Ethers.js
-- Chai
-- Solidity
+- Ubuntu
+
 
 
 by https://app.patika.dev/durmuss
